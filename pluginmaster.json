@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "CuratorJin",
+    "Name": "DutyRecorder",
+    "InternalName": "DutyRecorder",
+    "AssemblyVersion": "2.1.9.18",
+    "Description": "A plugin that helps you to record your duty.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "",
+    "Tags": [
+      "Duty",
+      "Tracker",
+	  "Record"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "LoadPriority": 0,
+    "Punchline": "Duty Recorder",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/curatorjin/DalamudPluginsRepository/raw/main/plugins/DutyRecorder/latest.zip",
+    "DownloadLinkTesting": "https://github.com/curatorjin/DalamudPluginsRepository/raw/main/plugins/DutyRecorder/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/curatorjin/DalamudPluginsRepository/raw/main/plugins/DutyRecorder/latest.zip"
+  }
+]
