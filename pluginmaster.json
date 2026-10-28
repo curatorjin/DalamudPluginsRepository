@@ -18,8 +18,33 @@
     "LoadPriority": 0,
     "Punchline": "Duty Recorder",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/curatorjin/DalamudPluginsRepository/raw/master/plugins/DutyRecorder/latest.zip",
+    "DownloadLinkInstall": "https://github.com/curatorjin/DalaumdPluginsRepository/raw/master/plugins/DutyRecorder/latest.zip",
     "DownloadLinkTesting": "https://github.com/curatorjin/DalamudPluginsRepository/raw/master/plugins/DutyRecorder/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/curatorjin/DalamudPluginsRepository/raw/master/plugins/DutyRecorder/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/curatorjin/DalaumdPluginsRepository/raw/master/plugins/DutyRecorder/latest.zip"
+  },
+  {
+    "Author": "CuratorJin",
+    "Name": "ProxyPlugin",
+    "InternalName": "ProxyPlugin",
+    "AssemblyVersion": "0.3.1.0",
+    "Description": "叶掩匎 FPXIV 代理",
+    "Punchline": "通过你的代理转发其他插件的流量，或借助镜像加速。",
+    "Description_original": "叶掩匎 FPXIV 代理",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/curatorjin/ProxyPlugin",
+    "Tags": [
+      "proxy",
+      "mirror",
+      "network"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "CanUnloadAsync": false,
+    "LoadPriority": 1000,
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/curatorjin/ProxyPlugin/releases/download/v0.3.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/curatorjin/ProxyPlugin/releases/download/v0.3.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/curatorjin/ProxyPlugin/releases/download/v0.3.1.0/latest.zip"
   }
 ]
