@@ -10,7 +10,7 @@
     "Tags": [
       "Duty",
       "Tracker",
-	  "Record"
+      "Record"
     ],
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
@@ -27,9 +27,8 @@
     "Name": "ProxyPlugin",
     "InternalName": "ProxyPlugin",
     "AssemblyVersion": "0.3.1.0",
-    "Description": "叶掩匎 FPXIV 代理",
+    "Description": "通过你的代理转发其他插件的流量，或借助镜像加速。",
     "Punchline": "通过你的代理转发其他插件的流量，或借助镜像加速。",
-    "Description_original": "叶掩匎 FPXIV 代理",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/curatorjin/ProxyPlugin",
     "Tags": [
